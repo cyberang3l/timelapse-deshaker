@@ -1,3 +1,11 @@
+resized_tmp
+*.jpg
+*.png
+*.JPG
+*.PNG
+*.tiff
+*.TIFF
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
